@@ -33,6 +33,13 @@ The Artificial Neural Network (ANN) architecture consists of fully connected lay
 - **Jupyter Notebook**: For interactive development and testing of the model.
 - **GitHub**: For version control and project sharing.
 
+# Impact
+This project showcases the ability of ANNs to classify handwritten digits, which can be utilized in:
+
+- **Automated Form Processing**: Extracting digits from scanned forms.
+- **Banking Systems**: Digitizing handwritten checks.
+- **Postal Sorting Systems**: Recognizing handwritten ZIP codes.
+
 # Future Improvements
 - **Enhance Accuracy**: Experiment with deeper networks or hyperparameter tuning to improve accuracy.
 - **Time Series Analysis**: Add temporal data to observe trends in sequences of digits.
